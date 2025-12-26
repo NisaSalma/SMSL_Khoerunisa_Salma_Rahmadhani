@@ -1,0 +1,2 @@
+DAGSHUB_REPO = "https://dagshub.com/NisaSalma/Membangun_Model"
+MLFLOW_TRACKING_URI = "https://dagshub.com/NisaSalma/Membangun_Model.mlflow/#/experiments/1/models" 
