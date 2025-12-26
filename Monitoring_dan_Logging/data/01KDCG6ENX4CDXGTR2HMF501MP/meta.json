@@ -1,0 +1,18 @@
+{
+	"ulid": "01KDCG6ENX4CDXGTR2HMF501MP",
+	"minTime": 1766636447084,
+	"maxTime": 1766642400000,
+	"stats": {
+		"numSamples": 18572,
+		"numFloatSamples": 18572,
+		"numSeries": 836,
+		"numChunks": 836
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01KDCG6ENX4CDXGTR2HMF501MP"
+		]
+	},
+	"version": 1
+}
